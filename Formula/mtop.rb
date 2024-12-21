@@ -4,7 +4,7 @@ class Mtop < Formula
   homepage "https://github.com/jepeake/mtop"
   url "https://github.com/jepeake/mtop/releases/download/v0.2.0/mtop"
   sha256 "ce581297e425862a9203791185ac208c0bc772a4170b3251fa0e4fa98c8409a3"
-  version "0.2.0"
+  version "0.3.0"
   license "MIT" 
 
   def install
